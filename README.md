@@ -1,6 +1,6 @@
 # Supercharger Route Planner
 ## Solution Description:
-### GOAL: Construct the minimum path through the tesla network of supercharging stations
+### GOAL: Construct the minimum path through the network of supercharging stations
 ### Main Idea:
 - Build out a graph starting at the starting node
 - Create edge weights based on travel_time + charging_time
