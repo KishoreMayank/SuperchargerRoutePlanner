@@ -1,4 +1,4 @@
-# TeslaSuperchargerRoutePlanner
+# Supercharger Route Planner
 ## Solution Description:
 ### GOAL: Construct the minimum path through the tesla network of supercharging stations
 ### Main Idea:
