@@ -22,8 +22,11 @@
 - Finally, with a built graph, we can run Dijkstra's to determine the shortest path
 - Build the path and output the built path
 
-### RESULTS:
+### Results:
 - Was able to successfully create a very fast and fairly accurate approximation algorithm
 - Used a distance heuristic in the graph building stage to significantly improve the runtime
 - The distance heurisitc is an approximate guess of how far out of path the vehicle can deviate
 - Consistenly ended up with results are close to the checker_osx
+
+### Run Code:
+`g++ -std=c++11 -O1 main.cpp network.cpp -o candidate_solution`
