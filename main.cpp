@@ -31,12 +31,10 @@ Solution Description:
         - The distance heurisitc is an approximate guess of how far out of path the vehicle can deviate
         - Consistenly ended up with results are close to the checker_osx
 
-    CONCLUSION
-        - Really enjoyed working on this challenge as it mirrors a real life problem Tesla faces
+    CONCLUSION:
         - Am proud of my results and the optimizations that I introduced with this algorithm
         - Would have liked to more robustly check my distance heurisitc number
         - Traded building out every potential path for a more optimal approach
-        - This challenge was really exciting and I would love to work on more real world challenge's at Tesla!
 */
 
 
